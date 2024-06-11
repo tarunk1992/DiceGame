@@ -1,0 +1,124 @@
+@media (min-width: 1536px) {
+  
+}
+
+@media (max-width: 1440px) {
+   
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 1366px) {
+    .Rule{
+     
+      
+      margin-top:10px
+
+       
+        
+    }
+    .FlexR{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
+
+@media (max-width: 992px) {
+    .GameOn .contain {
+        display: flex;
+        flex-direction:column ;
+        align-items: center;
+      
+        
+    }
+}
+
+@media (max-width: 991px) {
+    
+}
+
+@media (min-width: 768px) {
+
+ 
+}
+
+@media (max-width: 768px){
+    .GameOn{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 767px){
+
+}
+
+@media (max-width: 767px) {
+ 
+}
+
+@media (max-width: 576px) {
+    .GameOn .image img{
+        width: 250px;
+        height: 250px;
+    }
+    .GameOn .contain h1{
+        font-size: 50px;
+        font-weight: 700;
+        letter-spacing: .5px;
+        
+    
+    }
+    
+    .GameOn .contain button{
+        width: 120px;
+        
+        
+    }
+    .GameOn .contain {
+      padding-top: 30px;
+    }
+    .StartGame .score_select-section  {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    
+        
+    }
+    .RoleDice .Dice-section img{
+        width: 150px;
+        height: 150px;
+      
+    }
+    .StartGame .score_select-section .select box{
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        display: grid;
+       place-items: center;
+        border: 1px solid black;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    
+    .Rule{
+        background-color: coral;
+     
+        width: 250px;
+        height: 300px;
+    
+    }
+}
+
+
+
+
